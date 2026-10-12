@@ -1,0 +1,12 @@
+# Only the public application and its documentation belong in this repository.
+# Local builds, browser profiles, media, exports, test fixtures and private rules
+# are intentionally excluded. Add new public files explicitly below.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/app/
+/app/*
+!/app/MediaPlaylistViewer.html
+!/app/Start-MediaPlaylistViewer.cmd
+!/app/Lucide-LICENSE.txt
